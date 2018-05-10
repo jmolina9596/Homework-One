@@ -20,5 +20,8 @@
   "homepage": "https://github.com/jmolina9596/Homework-One#readme",
   "dependencies": {
     "express": "^4.16.3"
+  },
+  "engines": {
+    "node": "9.4.0"
   }
 }
